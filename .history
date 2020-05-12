@@ -1,0 +1,132 @@
+subl
+cd ..
+7zip
+7Z
+7z
+7z l bin\qpdf.zip
+7z l bin\qpdf.zip -r-
+7z l bin\qpdf.zip -r
+7z l bin\qpdf.zip 
+7z l bin\qpdf.zip -x */*
+7z l bin\qpdf.zip -x*/*
+7z l bin\qpdf.zip -x*\*
+7z l bin\qpdf.zip -xl bin\qpdf.zip -x*\*/
+7z l bin\qpdf.zip -xl bin\qpdf.zip -xl bin\qpdf.zip -xl bin\qpdf.zip -x*\*//
+7z l bin\qpdf.zip -x!/*
+7z l bin\qpdf.zip -x!\*
+7z e bin\qpdf.zip -obin
+7z x -bso0p0 bin\qpdf.zip -obin 
+7z x -bso0 bin\qpdf.zip -obin 
+mv bin\qpdf-9010.3 qpdf
+mv bin\qpdf-9.1.0 qpdf
+7z x bin\qpdf.zip -obin
+mv bin\qpdf-9.1.0 bin\qpdf
+%cd%
+echo%path%
+echo %path%
+unencryptall
+python test.py
+git statis
+git commit -a -m "Converting commandline app to web service"
+git push
+python nsedirect/fetch_nse_options_eodfetch_nse_options_eod.py.py
+python nsedirect/fetch_nse_options_eod.py
+pip install nsepy
+fetchnseopt
+rclone ls od-pc:
+rclone config show
+rclone config userinfo
+rclone config userinfo od-pc:
+rclone config userinfo od-pc
+rclone config dump 
+reboot
+restart
+shutdown /r
+ipconfig
+ping mediaserver.local
+ping 192.168.0.183
+rclone ls
+rclone lsd gdriveabfu
+rclone lsd gdriveabfu:
+runAbsync
+pelican-quickstart
+python -m pelican-quickstart
+pip freez
+npm
+npm install --global prettier
+git remote add bitbucket git git@bitbucket.org:pradyumnacster/zerodha-stockreports.git
+git init
+git commit -a -m "Project config files"
+git remote add bitbucket git@bitbucket.org:pradyumnacster/zerodha-stockreports.git
+git push --set-upstream bitbucket master:master
+pip install click
+touch run.bat
+cwd
+`pwd`\chromedriver
+cd `pwd`\chromedriver
+pwd\chromedriver
+pwd
+"%cd%"\chromedriver
+%cd%\chromedriver
+chrome
+ npm install -g clean-css-cli uglifycss js-beautify html-minifier uglify-js minjson svgo
+cleancss --version
+pip install PIL
+pip install pip install Pillow
+pip install Pillow
+pip install fpdf
+python
+python libreport.py
+pip install requests
+git rm data/indices/*
+git add .
+python get_indices.py
+git status
+pip freeze > requirements.txt
+run
+cd D:\Projects\Blogs\audiostoriesforyou\bulmaplay
+cd D:
+Cd d:
+Cd d:\
+cd d
+git clone https://github.com/app-generator/bulmaplay.git
+git clone https://github.com/app-generator/bulmaplay.git .
+git clone https://github.com/app-generator/bulmaplay.git . --force
+git clone https://github.com/app-generator/bulmaplay.git 
+install
+explorer
+pip install jupyterlab
+runnb
+pip install jupyterthemes
+wenv/Scripts/activate
+which pip
+wenv\Scripts\activate
+pip freeze
+getarticle https://www.bloombergquint.com/coronavirus-outbreak/adam-tooze-on-virus-crisis-and-who-will-lead-the-recovery
+wenv/scripts/activate
+wenv\scripts\activate
+which python
+deactivate
+cd Desktop 
+git clone https://github.com/GoogleCloudPlatform/training-data-analyst
+pscp
+pscp 192.168.0.183:/gome/pi/jupyter/nsego/main.go main.go
+pscp pi:lilliputman@192.168.0.183:/gome/pi/jupyter/nsego/main.go main.go
+pscp pi@192.168.0.183:/gome/pi/jupyter/nsego/main.go main.go
+pscp pi@192.168.0.183:/home/pi/jupyter/nsego/main.go main.go
+rclone authorize dropbox
+rclone
+rlone config
+rclone config
+nssm -h
+nssm remove influxdb
+nssm install
+influx
+ubuntui
+ls
+vimtutor
+vim
+:Q1
+tee
+sudo apt
+ubuntu
